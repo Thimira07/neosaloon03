@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+    
+    <!-- Homepage -->
+    <url>
+        <loc>https://www.neosalon.lk/</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/logo/Neo%20Salon%20Name.png</image:loc>
+            <image:title>Neo Salon Logo</image:title>
+            <image:caption>Neo Salon - Premium Unisex Salon</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Services Page -->
+    <url>
+        <loc>https://www.neosalon.lk/services</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.9</priority>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/services/hair_services.jpg</image:loc>
+            <image:title>Hair Services</image:title>
+            <image:caption>Professional Hair Services at Neo Salon</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/services/beauty_services.jpg</image:loc>
+            <image:title>Beauty Services</image:title>
+            <image:caption>Beauty Treatments for Women</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/services/mens_grooming.jpg</image:loc>
+            <image:title>Men's Grooming</image:title>
+            <image:caption>Professional Men's Grooming Services</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/services/bridal_services.jpg</image:loc>
+            <image:title>Bridal Services</image:title>
+            <image:caption>Special Bridal Packages and Services</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- About Page -->
+    <url>
+        <loc>https://www.neosalon.lk/about</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/about/salon_story.jpg</image:loc>
+            <image:title>Neo Salon Story</image:title>
+            <image:caption>The Story Behind Neo Salon</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/team/stylist1.jpg</image:loc>
+            <image:title>Master Stylist</image:title>
+            <image:caption>Our Expert Team of Stylists</image:caption>
+        </image:image>
+    </url>
+    
+    <!-- Contact Page -->
+    <url>
+        <loc>https://www.neosalon.lk/contact</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+    </url>
+    
+    <!-- Service Categories (for better SEO targeting) -->
+    <url>
+        <loc>https://www.neosalon.lk/services#hair-services</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.neosalon.lk/services#beauty-services</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.neosalon.lk/services#grooming-services</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <url>
+        <loc>https://www.neosalon.lk/services#special-services</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.7</priority>
+    </url>
+    
+    <!-- Gallery Images (if you add a gallery page later) -->
+    <url>
+        <loc>https://www.neosalon.lk/gallery</loc>
+        <lastmod>2024-01-15</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>0.6</priority>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/gallery/hair_styling.jpg</image:loc>
+            <image:title>Hair Styling Gallery</image:title>
+            <image:caption>Professional Hair Styling Work</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/gallery/beauty_treatment.jpg</image:loc>
+            <image:title>Beauty Treatments Gallery</image:title>
+            <image:caption>Beauty Treatment Results</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/gallery/mens_grooming.jpg</image:loc>
+            <image:title>Men's Grooming Gallery</image:title>
+            <image:caption>Men's Grooming Services</image:caption>
+        </image:image>
+        <image:image>
+            <image:loc>https://www.neosalon.lk/images/gallery/bridal_service.jpg</image:loc>
+            <image:title>Bridal Services Gallery</image:title>
+            <image:caption>Bridal Service Portfolio</image:caption>
+        </image:image>
+    </url>
+    
+</urlset>
+
+<!-- 
+Note: 
+1. Replace www.neosalon.lk with your actual domain name
+2. Update lastmod dates when pages are modified
+3. Add more URLs as you create additional pages
+4. Consider creating separate sitemaps for images if you have many
+5. Submit this sitemap to Google Search Console and Bing Webmaster Tools
+-->
